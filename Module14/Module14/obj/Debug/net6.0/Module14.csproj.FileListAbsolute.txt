@@ -1,0 +1,15 @@
+D:\шарп\Module14\Module14\bin\Debug\net6.0\Module14.exe
+D:\шарп\Module14\Module14\bin\Debug\net6.0\Module14.deps.json
+D:\шарп\Module14\Module14\bin\Debug\net6.0\Module14.runtimeconfig.json
+D:\шарп\Module14\Module14\bin\Debug\net6.0\Module14.dll
+D:\шарп\Module14\Module14\bin\Debug\net6.0\Module14.pdb
+D:\шарп\Module14\Module14\obj\Debug\net6.0\Module14.csproj.AssemblyReference.cache
+D:\шарп\Module14\Module14\obj\Debug\net6.0\Module14.GeneratedMSBuildEditorConfig.editorconfig
+D:\шарп\Module14\Module14\obj\Debug\net6.0\Module14.AssemblyInfoInputs.cache
+D:\шарп\Module14\Module14\obj\Debug\net6.0\Module14.AssemblyInfo.cs
+D:\шарп\Module14\Module14\obj\Debug\net6.0\Module14.csproj.CoreCompileInputs.cache
+D:\шарп\Module14\Module14\obj\Debug\net6.0\Module14.dll
+D:\шарп\Module14\Module14\obj\Debug\net6.0\refint\Module14.dll
+D:\шарп\Module14\Module14\obj\Debug\net6.0\Module14.pdb
+D:\шарп\Module14\Module14\obj\Debug\net6.0\Module14.genruntimeconfig.cache
+D:\шарп\Module14\Module14\obj\Debug\net6.0\ref\Module14.dll
